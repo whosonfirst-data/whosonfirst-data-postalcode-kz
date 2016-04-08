@@ -1,0 +1,50 @@
+{
+  "id": 538920271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"KZ",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191569,
+        421167383,
+        85632307,
+        85672907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12848674"
+    },
+    "wof:country":"KZ",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "locality_id":421167383,
+            "postalcode_id":538920271,
+            "region_id":85672907
+        }
+    ],
+    "wof:id":538920271,
+    "wof:lastmodified":1460094286,
+    "wof:name":"476010",
+    "wof:parent_id":"421167383",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
